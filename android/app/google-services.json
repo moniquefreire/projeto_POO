@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "347107196998",
+    "firebase_url": "https://biomecanica-d2746-default-rtdb.firebaseio.com",
+    "project_id": "biomecanica-d2746",
+    "storage_bucket": "biomecanica-d2746.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347107196998:android:110d3dda1f84c22ce78a47",
+        "android_client_info": {
+          "package_name": "com.example.app_biomecanica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347107196998-437gopgdfkb5g3lrdn04cpepcm3uljlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiXJKqtw-p5HkY_W0Wqoa6-KyGCY88aZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347107196998-437gopgdfkb5g3lrdn04cpepcm3uljlu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "347107196998-tk2kl8qogqj3ptn1ip0ealtg065hvka7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appBiomecanica"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
